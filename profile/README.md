@@ -8,4 +8,4 @@ We have built a collection of best-in-class products:
 
 Our open source code:
 
-- [keez]('/syphereu/keez') - A simple Keez.ro integration
+- [keez](https://github.com/syphereu/keez) - A simple Keez.ro integration
